@@ -1,0 +1,4 @@
+name: TabStatus
+version: '${project.version}'
+main: rilyabyss.tabstatus.TabStatus
+api-version: 1.17
